@@ -25,9 +25,6 @@ return {
   ghost_text = {
     enabled = true,
   },
-  menu = {
-    auto_show = false,  -- hides the popup list
-  },
   documentation = {
     auto_show = true,
     auto_show_delay_ms = 200,
